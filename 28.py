@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 x = 352
 for f in range(0, 501):
     for e in range(0, 251):

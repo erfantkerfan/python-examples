@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 string = input("enter a string with . in it:")
 x = string.index(".")
 print(x)

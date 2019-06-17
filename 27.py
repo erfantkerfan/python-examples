@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 n = int(input("enter number n:"))
 if n == 0:
     x = "friday"
