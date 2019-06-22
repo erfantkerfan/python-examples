@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 n = int(input("enter number n:"))
 m = int(input("enter number m:"))
 for i in range(1, n+1):

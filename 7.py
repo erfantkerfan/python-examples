@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 x = int(input("enter a number:"))
 # x = 35
 y = x % 10

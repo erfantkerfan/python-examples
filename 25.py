@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 n = int(input("enter number n:"))
 x = 0
 while n > 0:

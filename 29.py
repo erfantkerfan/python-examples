@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 x = 352
 i = x
 for f in range(0, 501):
